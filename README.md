@@ -55,7 +55,7 @@ llm-learning-rag/
 
 ```bash
 # 1. 克隆
-git clone <你的仓库地址>
+git clone <仓库地址>
 cd llm-learning-rag
 
 # 2. 装依赖
